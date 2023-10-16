@@ -22,7 +22,7 @@ O **World Time Converter** é uma aplicação Java que permite aos usuários vis
 
 ## Como Usar ⁉️
 
-1. Clone o repositório para o seu computador ou baixe o arquivo .jar.
+1. Baixe o .jar da [última release](https://github.com/slmdnkasr/WorldTimeConverter/releases/tag/0.1.0-alpha)
 2. Execute o programa.
 4. Selecione uma região no menu suspenso e clique em "Filtrar" e aguarde o carregamento para ver as horas locais.
 
