@@ -13,10 +13,6 @@ O **World Time Converter** é uma aplicação Java que permite aos usuários vis
 ![Screenshot_2](https://github.com/slmdnkasr/WorldTimeConverter/assets/115676743/f198d170-a7bc-4ab0-ab81-210753c5b3fe)
 
 
-
-
-
-
 ## Pré-requisitos 💻
 
 - Java Development Kit (JDK) instalado
@@ -24,7 +20,7 @@ O **World Time Converter** é uma aplicação Java que permite aos usuários vis
 
 ## Como Usar ⁉️
 
-1. Baixe o .jar da [última release](https://github.com/slmdnkasr/WorldTimeConverter/releases/tag/0.1.0-alpha)
+1. Baixe o .jar da [última release](https://github.com/slmdnkasr/WorldTimeConverter/releases/tag/0.2.0-alpha).
 2. Execute o programa.
 4. Selecione uma região no menu suspenso e clique em "Filtrar" e aguarde o carregamento para ver as horas locais.
 
