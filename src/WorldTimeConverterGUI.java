@@ -157,7 +157,7 @@ public class WorldTimeConverterGUI extends JFrame {
             // Adiciona um atraso de 1 segundo (1000 milissegundos) entre as chamadas à API
             Thread.sleep(2000);
 
-            String apiKey = "WMU923EWJ1HP";
+            String apiKey = "SUA_CHAVE_API_AQUI";
             String apiUrl = "http://api.timezonedb.com/v2.1/get-time-zone";
             String urlString = apiUrl + "?key=" + apiKey + "&format=json&by=zone&zone=" + timeZoneId;
 
