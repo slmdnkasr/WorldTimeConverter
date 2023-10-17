@@ -9,8 +9,10 @@ O **World Time Converter** é uma aplicação Java que permite aos usuários vis
 
 ## Capturas de Tela 🖼️
 
-![Screenshot_2](https://github.com/slmdnkasr/WorldTimeConverter/assets/115676743/2151df67-3b68-4267-925c-fc53c5616050)
-![Screenshot_3](https://github.com/slmdnkasr/WorldTimeConverter/assets/115676743/c86c3f6f-edf8-45ec-b44f-ce643a3c9e2f)
+![Screenshot_1](https://github.com/slmdnkasr/WorldTimeConverter/assets/115676743/d25b3a1e-8356-4cac-a0b0-c9b664f8fdd9)
+![Screenshot_2](https://github.com/slmdnkasr/WorldTimeConverter/assets/115676743/f198d170-a7bc-4ab0-ab81-210753c5b3fe)
+
+
 
 
 
